@@ -21,6 +21,7 @@
 ![OS Linux](https://img.shields.io/badge/Supported%20OS-Linux-yellow.svg)
 ![License MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Version 2.0](https://img.shields.io/badge/Version-2.0-red.svg)
+[![CI](https://github.com/waleedshamhan2050-sys/FaceTracker-Pro/actions/workflows/ci.yml/badge.svg)](https://github.com/waleedshamhan2050-sys/FaceTracker-Pro/actions/workflows/ci.yml)
 
 **أداة متقدمة للبحث عن حسابات المستخدمين في وسائل التواصل الاجتماعي عن طريق صورة الشخص أو اسمه**
 
@@ -226,6 +227,18 @@ Edit `config.json` to customize:
 - 💼 [LinkedIn](https://linkedin.com/in/waleed-shamhan-b33a41301)
 - 💻 [GitHub](https://github.com/waleedshamhan2050-sys)
 - 📢 [Telegram](https://t.me/Programmer_sitting2026)
+
+---
+
+### 🤝 Contributing | المساهمة
+
+Contributions are welcome! | المساهمات مرحب بها!
+
+1. Fork the project | انسخ المشروع
+2. Create your feature branch | أنشئ فرعاً لميزتك (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes | احفظ تغييراتك (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch | ارفع الفرع (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request | افتح طلب دمج
 
 ---
 
